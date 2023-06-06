@@ -1,4 +1,3 @@
 # odin-recipes
-This is yet another thing to do. I am very tired, but I do feel a little more confident in this regard. I wonder
-about starting this journey of programming, coding, and I always second-guess myself when it comes to starting something,
-to getting out of "tutorial hell." But hey, I guess I'm here, doing the thing itself. Hopefully. 
+This is the first HTML project, from The Odin Project. I decided to be a little humorous and to have some fun. Also first time with using git commands and Github. And since I don't really cook beyond microwaveable meals and vegan Gardein
+packets, I figured might as well have some fun with this. 
