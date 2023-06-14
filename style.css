@@ -1,0 +1,47 @@
+h1{
+    background-color: green; 
+    color: white; 
+    text-align: center; 
+    margin: 10 10; 
+    height: 50px; 
+    font-size: 40px; 
+    padding: 0; 
+    font-family: "Times New Roman", "Verdana", sans-serif; 
+    width: 50%; 
+    text-align: center; 
+}
+
+h2{
+    background-color:yellow; 
+    font-size: 40px; 
+    font-family: "Comic Sans", sans-serif; 
+    margin-top: 0; 
+    padding: 10px; 
+    width: 50%; 
+}
+
+img{
+    height: 200px;
+    width: 200px; 
+    margin: 10px auto;
+    padding: 50px; 
+}
+
+p{
+    color: purple; 
+    font-size: 24px; 
+}
+
+.menu.font{
+
+    
+    font-size: 40px; 
+    color: white;
+    width: 50%; 
+
+}
+
+.li.omelette{
+
+    color: green;
+}
