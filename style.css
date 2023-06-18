@@ -1,13 +1,26 @@
+* {
+
+    background-color:lightpink; 
+    font-size: "Times New Roman", "Verdana", sans-serif; 
+}
+
+body{
+
+    display: block; 
+    height: 250px;
+    margin: 25px 50px; 
+    padding: 15px; 
+    box-sizing: border-box; 
+}
+
 h1{
-    background-color: green; 
-    color: white; 
-    text-align: center; 
-    margin: 10 10; 
+    
+    color: rgba(68, 5, 255, 0.601);  
+    display: block; 
     height: 50px; 
     font-size: 40px; 
-    padding: 0; 
+    padding: 10px; 
     font-family: "Times New Roman", "Verdana", sans-serif; 
-    width: 50%; 
     text-align: center; 
 }
 
@@ -15,33 +28,76 @@ h2{
     background-color:yellow; 
     font-size: 40px; 
     font-family: "Comic Sans", sans-serif; 
-    margin-top: 0; 
     padding: 10px; 
-    width: 50%; 
+    width: 70%; 
 }
 
+h3{
+    background-color: gold;
+    font-family: "Verdana", "Roboto", sans-serif; 
+    padding: 10px;
+    width: 50%;
+}
 img{
-    height: 200px;
-    width: 200px; 
-    margin: 10px auto;
-    padding: 50px; 
+    height: 600px;
+    width: 450px; 
+    padding: 26px; 
+    display: inline-block; 
+    margin: 20px auto; 
+    box-sizing: border-box;
+    border: 4px solid green; 
+    margin-left: 271px; 
 }
 
 p{
     color: purple; 
     font-size: 24px; 
+    padding: 20px auto; 
 }
 
 .menu.font{
-
-    
     font-size: 40px; 
     color: white;
-    width: 50%; 
+    width: 58px;
+    height: 55px; 
+    display: inline; 
+    margin-left: 20px; 
 
 }
 
-.li.omelette{
+.menu{
 
-    color: green;
+    padding: 20px; 
+    
+}
+
+ol{
+
+    display: inline-block; 
+    margin-top: -14px; 
+    
+
+}
+
+ul{
+    list-style-type: none; 
+    margin-left: -29px; 
+   
+}
+
+li{
+    color: darkblue;
+    font-size: 24px; 
+    
+}
+
+
+a{
+    list-style-type: none;
+    color: rgb(231, 78, 13); 
+    font-size: 34px;
+    display: block;
+    gap: 6px; 
+    text-align: center; 
+    text-decoration: none; 
 }
